@@ -1,0 +1,29 @@
+5 09 CTEC3904 lab session GH6.82
+7 09 Squash court booked for practice
+1 10 Meet friends for breakfast
+1 10 Work on final year project
+3 10 CTEC3904 lecture in MS1.02
+4 10 Lunch meeting with film club
+4 10 CTEC3904 lecture in BI0.05
+1 11 Work on final year project
+3 11 CTEC3904 lecture in MS1.02
+4 11 CTEC3904 lecture in BI0.05
+5 11 Meeting with personal tutor
+5 11 PARTY at Wygston;s House
+7 11 CTEC1901 Computational Modelling Lecture GH3.13
+1 12 Meet friends for breakfast
+1 12 Work on final year project
+1 12 Personal tutor meeting (Teams)
+2 12 Some event in the evening
+3 12 CTEC3904 lecture in MS1.02
+4 12 CTEC3904 lecture in BI0.05
+5 12 Work on project all afternoon.
+6 12 Visit to VUE
+6 12 Concert at DMH
+1 13 Work on final year project
+3 13 CTEC3904 lecture in MS1.02
+4 13 CTEC3904 lecture in BI0.05
+4 13 Robotics club event in Q0.10
+7 13 Squash court booked for practice
+1 15 CTEC1901 Computational Modelling Lecture GH3.13
+1 15 Optional Industrial Placement Seminar Q1.12
